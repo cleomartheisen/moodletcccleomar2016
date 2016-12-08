@@ -1,0 +1,18 @@
+-> Na pasta artigo e apresentação está disponibilazado a parte teorica 
+do trabalho.
+
+-> Na pasta formularios respostas se encontram os resultados obtidos 
+com as respectivas aplicações dos instrumentos.
+
+-> Na pasta base de dados se encontra o banco de dados 
+utilizado, caso quiser usar só importar.
+
+-> Na pasta ambiente o arquivo moodle.zip contem todo o codigo que 
+deve ser upado no seu servidor preferido
+
+-> Na pasta ambiente o arquivo moodletemp.zip contem todo o codigo que 
+deve ser upado na raiz do seu servidor preferido, o mesmo é o arquivo temporario
+para que o ambiente possa operar.
+
+Obs: não esqueça de alterar o arquivo config.php conforme suas configurações 
+de banco e sevidor
